@@ -5,4 +5,4 @@ In this day and age of music streaming apps like Spotify, SoundCloud and iTunes,
 1. In the first part of the project, we extract time and frequency domain features from the music samples and pass those features to traditional machine learning classifiers. 
 2. The second method aims to classify the samples by generating MEL spectrograms of the samples and performing image classification using deep learning techniques like CNNs and CRNNs. Using CRNNs, we were able to achieve an accuracy score of 86% to classify 1000 music samples into 10 genres.
 
-FOr a complete overview of the project and its results, please read the project report from the music-genre-classification-2.pdf file uploaded in the repository. 
+For a complete overview of the project and its results, please read the project report from the **music-genre-classification-2.pdf** file uploaded in the repository. 
